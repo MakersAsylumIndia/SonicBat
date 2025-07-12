@@ -12,9 +12,9 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 Start by writing a **brief introduction** to your project right here in this `README.md` file:
 
 🔹 What problem are you solving?  
-hjgjjgc
+Visually impaired individuals have difficulties while playing cricket due to thir condition.
 🔹 What’s your proposed solution?
-
+We want to create a cricket bat that tells the batsman when the ball is approaching them and when to hit the ball.
 Just 2–3 lines are enough. This helps others quickly understand what your project is about.
 
 Click on the ✏️ PENCIL icon next to the README title above, and you can edit the README directly from within your browser.
