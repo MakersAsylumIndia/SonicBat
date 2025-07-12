@@ -12,6 +12,7 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 Start by writing a **brief introduction** to your project right here in this `README.md` file:
 
 🔹 What problem are you solving?  
+hjgjjgc
 🔹 What’s your proposed solution?
 
 Just 2–3 lines are enough. This helps others quickly understand what your project is about.
